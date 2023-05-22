@@ -1,0 +1,1039 @@
+# Translation of Themes - Wishful Blog in Spanish (Mexico)
+# This file is distributed under the same license as the Themes - Wishful Blog package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-02-20 14:25:21+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: es_MX\n"
+"Project-Id-Version: Themes - Wishful Blog\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "Wishful Blog is simple and attractive free WordPress Blog theme. Wishful Blog is suitable to everykinds of blog you are looking for. It has highly customizable options to manage site and SEO is properly managed for site ranking. Default fallback image is additional features where you rarely get this option in WordPress theme. Beside these, there are layout options for banner and blog list, sidebar options, color options, typography options and many more. You can also find custom widgets of Wishful Blog to make site more attractive and unique. For more details, please visit : https://www.wishfulthemes.com/themes/wishful-blog/"
+msgstr "Wishful Blog es un sencillo y atractivo tema gratuito de blog para WordPress. Wishful Blog es adecuado para cualquier tipo de blog que estés buscando. Tiene opciones altamente personalizables para gestionar el sitio y para gestionar adecuadamente el SEO para el posicionamiento del sitio. La imagen de respaldo por defecto es una característica adicional y rara vez se obtiene esta opción en temas para WordPress. Además, hay opciones de diseño para el banner y el listado del blog, opciones para la barra lateral, opciones de color, opciones de tipografía y mucho más. También puedes encontrar widgets personalizados de Wishful Blog para hacer el sitio más atractivo y único. Para más detalles, por favor, visita: https://www.wishfulthemes.com/themes/wishful-blog/"
+
+#. Theme Name of the theme
+#. translators: 1: Copyright Text 2: Theme name, 3: Theme author.
+#: footer.php:94
+msgid "Wishful Blog"
+msgstr "Wishful Blog"
+
+#: 404.php:22
+msgid "Sorry, but the page you were looking for could not be found."
+msgstr "Lo siento, pero no se ha podido encontrar la página que estás buscando."
+
+#: 404.php:21
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "¡Vaya! No se ha podido encontrar esa página."
+
+#: 404.php:20
+msgid "404"
+msgstr "404"
+
+#: comments.php:48
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#. translators: %s: search query.
+#: search.php:27
+msgid "Search Results For : %s"
+msgstr "Resultados de la búsqueda de: %s"
+
+#: header.php:24
+msgid "Skip to content"
+msgstr "Saltar al contenido"
+
+#: functions.php:193
+msgid "Add widget here for Footer Widget Area : Right."
+msgstr "Añade aquí los widgets para el área de widgets del pie de página: Derecha."
+
+#: functions.php:191
+msgid "Footer Widget Area : Right"
+msgstr "Área de widgets del pie de página: Derecha"
+
+#: functions.php:183
+msgid "Add widget here for Footer Widget Area : Middle."
+msgstr "Añade aquí los widgets para el área de widgets del pie de página: Centro."
+
+#: functions.php:181
+msgid "Footer Widget Area : Middle"
+msgstr "Área de widgets del pie de página: Centro"
+
+#: functions.php:173
+msgid "Add widget here for Footer Widget Area : Left."
+msgstr "Añade aquí los widgets para el área de widgets del pie de página: Izquierda."
+
+#: functions.php:171
+msgid "Footer Widget Area : Left"
+msgstr "Área de widgets del pie de página: Izquierda"
+
+#: functions.php:158
+msgid "Add only homepage post widget here."
+msgstr "Añade aquí solo el widget de entradas de la página de inicio."
+
+#: functions.php:156
+msgid "Homepage Top Widget Area"
+msgstr "Área de widgets superior de la página de inicio"
+
+#: functions.php:135 functions.php:147
+msgid "Add widgets here for sidebar."
+msgstr "Añade aquí los widgets para la barra lateral."
+
+#: functions.php:133
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: functions.php:53
+msgid "Primary"
+msgstr "Principal"
+
+#. translators: 1: Theme name, 2: Theme author.
+#: footer.php:99
+msgid "%1$s by %2$s"
+msgstr "%1$s por %2$s"
+
+#. translators: 1: Copyright Text 2: Theme name, 3: Theme author.
+#. translators: 1: Theme name, 2: Theme author.
+#: footer.php:94 footer.php:99
+msgid "Wishfulthemes"
+msgstr "Wishfulthemes"
+
+#: inc/theme-functions.php:570
+msgid "Number Format"
+msgstr "Formato numérico"
+
+#: inc/theme-functions.php:569
+msgid "Standard Format"
+msgstr "Formato estándar"
+
+#: inc/theme-functions.php:550
+msgid "Dark Mode"
+msgstr "Modo oscuro"
+
+#: inc/theme-functions.php:549
+msgid "Light Mode"
+msgstr "Modo claro"
+
+#: inc/theme-functions.php:508
+msgid "Fullwidth"
+msgstr "Ancho completo"
+
+#: inc/theme-functions.php:489 inc/theme-functions.php:590
+msgid "Style Two"
+msgstr "Estilo dos"
+
+#: inc/theme-functions.php:488 inc/theme-functions.php:589
+msgid "Style One"
+msgstr "Estilo uno"
+
+#: inc/theme-functions.php:469
+msgid "Grid : 2 Column"
+msgstr "Cuadrícula: 2 columnas"
+
+#: inc/theme-functions.php:468
+msgid "List Layout"
+msgstr "Diseño de la lista"
+
+#: inc/theme-functions.php:449
+msgid "Popular Posts"
+msgstr "Entradas populares"
+
+#: inc/theme-functions.php:448
+msgid "Recent Posts"
+msgstr "Entradas recientes"
+
+#: inc/theme-functions.php:375
+msgid "Maximum 3 items and minimum 2 items can be set."
+msgstr "Se puede establecer un máximo de 3 elementos y un mínimo de 2."
+
+#: inc/theme-functions.php:337
+msgid "Banner Layout Two"
+msgstr "Diseño 2 del banner"
+
+#: inc/theme-functions.php:336
+msgid "Banner Layout One"
+msgstr "Diseño 1 del banner"
+
+#: inc/theme-functions.php:299
+msgid "Buy Now"
+msgstr "Comprar ahora"
+
+#: inc/theme-functions.php:298
+msgid "Wishful Blog Pro"
+msgstr "Wishful Blog Pro"
+
+#: inc/theme-functions.php:183
+msgid "Add Menu"
+msgstr "Añadir un menú"
+
+#: inc/theme-functions.php:159
+msgid "Search"
+msgstr "Buscar"
+
+#: inc/theme-functions.php:159
+msgid "Enter Keyword"
+msgstr "Introduce las palabras clave"
+
+#. translators: If there are characters in your language that are not supported
+#. by Merriweather, translate this to 'off'. Do not translate into your own
+#. language.
+#: inc/theme-functions.php:26
+msgctxt "Montserrat font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: If there are characters in your language that are not supported
+#. by Merriweather, translate this to 'off'. Do not translate into your own
+#. language.
+#: inc/theme-functions.php:22
+msgctxt "Poppins font: on or off"
+msgid "on"
+msgstr "on"
+
+#: inc/metabox/post-meta.php:71
+msgid "checked"
+msgstr "marcada"
+
+#: inc/metabox/post-meta.php:60
+msgid "None"
+msgstr "Ninguna"
+
+#: inc/metabox/post-meta.php:59 inc/theme-functions.php:510
+msgid "Left"
+msgstr "Izquierda"
+
+#: inc/metabox/post-meta.php:58 inc/theme-functions.php:509
+msgid "Right"
+msgstr "Derecha"
+
+#: inc/metabox/post-meta.php:37
+msgid "Sidebar Position"
+msgstr "Posición de la barra lateral"
+
+#. translators: %s: post title
+#: inc/template-tags.php:291
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Deja un comentario<span class=\"screen-reader-text\"> en %s</span>"
+
+#. translators: 1: list of tags.
+#: inc/template-tags.php:281
+msgid "Tagged %1$s"
+msgstr "Etiquetado como %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:278
+msgctxt "list item separator"
+msgid ", "
+msgstr ", "
+
+#. translators: 1: list of categories.
+#: inc/template-tags.php:274
+msgid "Posted in %1$s"
+msgstr "Publicado en %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:271
+msgid ", "
+msgstr ", "
+
+#. translators: %s: comments number.
+#: inc/template-tags.php:138
+msgid "%s comments"
+msgstr "%s comentarios"
+
+#. translators: %s: comments number.
+#: inc/template-tags.php:134
+msgid "%s comment"
+msgstr "%s comentario"
+
+#: inc/template-tags.php:131
+msgid "0 Comment"
+msgstr "0 comentarios"
+
+#. translators: %1$s: category list.
+#: inc/template-tags.php:108
+msgid "&nbsp;%1$s"
+msgstr "&nbsp;%1$s"
+
+#. translators: %s: post date.
+#: inc/template-tags.php:33
+msgctxt "post date"
+msgid "&emsp%s"
+msgstr "&emsp%s"
+
+#: functions.php:145 inc/customizer/customizer-theme-options.php:1621
+msgid "WooCommerce Sidebar"
+msgstr "Barra lateral de WooCommerce"
+
+#: inc/customizer/customizer-theme-options.php:1611
+msgid "Button Background Hover Color"
+msgstr "Color de fondo del botón al pasar el cursor"
+
+#: inc/customizer/customizer-theme-options.php:1601
+msgid "Button Background Color"
+msgstr "Color de fondo del botón"
+
+#: inc/customizer/customizer-theme-options.php:1591
+msgid "Button Text Hover Color"
+msgstr "Color del texto del botón al pasar el cursor"
+
+#: inc/customizer/customizer-theme-options.php:1581
+msgid "Button Text Color"
+msgstr "Color del texto del botón"
+
+#: inc/customizer/customizer-theme-options.php:1571
+msgid "Label Color"
+msgstr "Color de la etiqueta"
+
+#: inc/customizer/customizer-theme-options.php:1561
+msgid "Title Color"
+msgstr "Color del título"
+
+#: inc/customizer/customizer-theme-options.php:1551
+msgid "Background Color"
+msgstr "Color del fondo"
+
+#: inc/customizer/customizer-theme-options.php:1540
+msgid "Color"
+msgstr "Color"
+
+#: inc/customizer/customizer-theme-options.php:1527
+msgid "Button Font Size"
+msgstr "Tamaño de la fuente del botón"
+
+#: inc/customizer/customizer-theme-options.php:1514
+msgid "Button Font Weight"
+msgstr "Grosor de la fuente del botón"
+
+#: inc/customizer/customizer-theme-options.php:1501
+msgid "Button Font Family"
+msgstr "Familia de fuentes del botón"
+
+#: inc/customizer/customizer-theme-options.php:1486
+msgid "Title Font Size"
+msgstr "Tamaño de la fuente del título"
+
+#: inc/customizer/customizer-theme-options.php:1473
+msgid "Title Font Weight"
+msgstr "Grosor de la fuente del título"
+
+#: inc/customizer/customizer-theme-options.php:1460
+msgid "Title Font Family"
+msgstr "Familia de fuentes de título"
+
+#: inc/customizer/customizer-theme-options.php:1447
+#: inc/customizer/customizer-theme-options.php:1541
+msgid "You need to install Email Capture &amp; Lead Generation plugin for this option."
+msgstr "Para esta opción, tienes que instalar el plugin Email Capture &amp; Lead Generation."
+
+#: inc/customizer/customizer-theme-options.php:1446
+msgid "Typography"
+msgstr "Tipografía"
+
+#: inc/customizer/customizer-theme-options.php:1435
+msgid "Newsletter Options"
+msgstr "Opciones del boletín"
+
+#: inc/customizer/customizer-theme-options.php:1423
+msgid "You can use <a> & <span> tags with the copyright and credit text."
+msgstr "Puedes usar las etiquetas <a> y <span> en el copyright y en el texto de acreditación."
+
+#: inc/customizer/customizer-theme-options.php:1422
+msgid "Copyright & Credit Text"
+msgstr "Copyright y texto de acreditación"
+
+#: inc/customizer/customizer-theme-options.php:1395
+msgid "Footer Color Mode"
+msgstr "Modo de color del pie de página"
+
+#: inc/customizer/customizer-theme-options.php:1385
+msgid "Footer Options"
+msgstr "Opciones del pie de página"
+
+#: inc/customizer/customizer-theme-options.php:1370
+msgid "Next Text"
+msgstr "Texto para «Siguiente»"
+
+#: inc/customizer/customizer-theme-options.php:1357
+msgid "Previous Text"
+msgstr "Texto para «Anterior»"
+
+#: inc/customizer/customizer-theme-options.php:1343
+msgid "Pagination Format"
+msgstr "Formato de la paginación"
+
+#: inc/customizer/customizer-theme-options.php:1326
+msgid "Sets numbers to either side of current page, but not including current page. Maximum 5 and minimum 0 can be set."
+msgstr "Establece los números a ambos lados de la página actual, pero sin incluir la página actual. Pueden establecerse un máximo de 5 y un mínimo de 0."
+
+#: inc/customizer/customizer-theme-options.php:1325
+msgid "Paination Middle Size"
+msgstr "Tamaño de la paginación central"
+
+#: inc/customizer/customizer-theme-options.php:1314
+msgid "Pagination Setting"
+msgstr "Ajustes de la paginación"
+
+#: inc/customizer/customizer-theme-options.php:1307
+msgid "Pagination Options"
+msgstr "Opciones de la paginación"
+
+#: inc/customizer/customizer-theme-options.php:1293
+msgid "Related Posts : Meta Options"
+msgstr "Entradas relacionadas: Opciones meta"
+
+#: inc/customizer/customizer-theme-options.php:1280
+msgid "Related Posts : Title"
+msgstr "Entradas relacionadas: Título"
+
+#: inc/customizer/customizer-theme-options.php:1268
+msgid "Display Related Posts"
+msgstr "Mostrar las entradas relacionadas"
+
+#: inc/customizer/customizer-theme-options.php:1256
+msgid "Display Author Box"
+msgstr "Mostrar la caja del autor"
+
+#: inc/customizer/customizer-theme-options.php:1209
+msgid "Single Post"
+msgstr "Entrada individual"
+
+#: inc/customizer/customizer-theme-options.php:1101
+msgid "Search Page"
+msgstr "Página de búsqueda"
+
+#: inc/customizer/customizer-theme-options.php:993
+msgid "Archive Page"
+msgstr "Página de archivo"
+
+#: inc/customizer/customizer-theme-options.php:981
+msgid "Site Pages Options"
+msgstr "Ajustes de las páginas de sitio"
+
+#: inc/customizer/customizer-theme-options.php:967
+#: inc/customizer/customizer-theme-options.php:1086
+#: inc/customizer/customizer-theme-options.php:1194
+#: inc/customizer/customizer-theme-options.php:1244
+msgid "Display Posted Date"
+msgstr "Mostrar la fecha de publicación"
+
+#: inc/customizer/customizer-theme-options.php:954
+#: inc/customizer/customizer-theme-options.php:1073
+#: inc/customizer/customizer-theme-options.php:1181
+#: inc/customizer/customizer-theme-options.php:1232
+msgid "Display Post Author"
+msgstr "Muestra el autor de la entrada"
+
+#: inc/customizer/customizer-theme-options.php:928
+#: inc/customizer/customizer-theme-options.php:1047
+#: inc/customizer/customizer-theme-options.php:1155
+msgid "Button Text"
+msgstr "Texto del botón"
+
+#: inc/customizer/customizer-theme-options.php:914
+#: inc/customizer/customizer-theme-options.php:1033
+#: inc/customizer/customizer-theme-options.php:1141
+#: inc/customizer/customizer-theme-options.php:1632
+msgid "Select Sidebar Position"
+msgstr "Seleccionar la posición de la barra lateral"
+
+#: inc/customizer/customizer-theme-options.php:899
+#: inc/customizer/customizer-theme-options.php:1018
+#: inc/customizer/customizer-theme-options.php:1126
+msgid "Select Post Listing Style"
+msgstr "Seleccionar el estilo del listado de entradas"
+
+#: inc/customizer/customizer-theme-options.php:885
+#: inc/customizer/customizer-theme-options.php:1004
+#: inc/customizer/customizer-theme-options.php:1112
+msgid "Select Post Listing Layout"
+msgstr "Seleccionar el diseño del listado de entradas"
+
+#: inc/customizer/customizer-theme-options.php:875
+msgid "Homepage Options"
+msgstr "Opciones de la página de inicio"
+
+#: inc/customizer/customizer-theme-options.php:847
+msgid "Enable Fallback Image in Banner"
+msgstr "Activar la imagen de respaldo para el banner"
+
+#: inc/customizer/customizer-theme-options.php:819
+msgid "Number of Posts"
+msgstr "Número de entradas"
+
+#: inc/customizer/customizer-theme-options.php:805
+msgid "Select Post Type"
+msgstr "Seleccionar el tipo de contenido"
+
+#: inc/customizer/customizer-theme-options.php:791
+msgid "Select Post Category"
+msgstr "Seleccionar la categoría de entradas"
+
+#: inc/customizer/customizer-theme-options.php:777
+msgid "Posts must have featured image in order to display content."
+msgstr "Las entradas deben tener una imagen destacada para poder mostrar el contenido."
+
+#: inc/customizer/customizer-theme-options.php:776
+msgid "Select Banner Layout"
+msgstr "Seleccionar el diseño del banner"
+
+#: inc/customizer/customizer-theme-options.php:764
+msgid "Enable Banner Section"
+msgstr "Activar la sección del banner"
+
+#: inc/customizer/customizer-theme-options.php:754
+msgid "Banner Options"
+msgstr "Opciones del banner "
+
+#: inc/customizer/customizer-theme-options.php:738
+msgid "Enable WooCommerce Cart"
+msgstr "Activar el carrito de WooCommerce"
+
+#: inc/customizer/customizer-theme-options.php:723
+msgid "User Logout Text"
+msgstr "Texto para la desconexión del usuario"
+
+#: inc/customizer/customizer-theme-options.php:710
+msgid "User Edit Profile Text"
+msgstr "Texto para la edición del perfil del usuario"
+
+#: inc/customizer/customizer-theme-options.php:697
+msgid "User Lost Password Text"
+msgstr "Texto para la recuperación de la contraseña del usuario"
+
+#: inc/customizer/customizer-theme-options.php:684
+msgid "User Login Text"
+msgstr "Texto para el acceso del usuario"
+
+#: inc/customizer/customizer-theme-options.php:671
+msgid "User Register Text"
+msgstr "Texto para el registro del usuario"
+
+#: inc/customizer/customizer-theme-options.php:659
+msgid "Display User Login/Register Icon"
+msgstr "Mostrar el icono de acceso/registro del usuario"
+
+#: inc/customizer/customizer-theme-options.php:647
+msgid "Enable Search Button"
+msgstr "Activar el botón de búsqueda"
+
+#: inc/customizer/customizer-theme-options.php:635
+#: inc/customizer/customizer-theme-options.php:1409
+msgid "Enable Social Links"
+msgstr "Activar los enlaces sociales"
+
+#: inc/customizer/customizer-theme-options.php:611
+msgid "Enable Sticky Header"
+msgstr "Activar la cabecera fija"
+
+#: inc/customizer/customizer-theme-options.php:594
+msgid "You can set opacity from 0 to 10"
+msgstr "Puedes establecer la opacidad entre 0 y 10"
+
+#: inc/customizer/customizer-theme-options.php:593
+msgid "Header Image Opacity"
+msgstr "Opacidad de la imagen de la cabecera"
+
+#: inc/customizer/customizer-theme-options.php:582
+msgid "Main Header"
+msgstr "Cabecera principal"
+
+#: inc/customizer/customizer-theme-options.php:569
+msgid "Site Title Font Size"
+msgstr "Tamaño de fuente del título del sitio"
+
+#: inc/customizer/customizer-theme-options.php:556
+msgid "Site Title Font Weight"
+msgstr "Grosor de la fuente del título del sitio"
+
+#: inc/customizer/customizer-theme-options.php:543
+msgid "Site Title Font Family"
+msgstr "Familia de fuentes del título del sitio"
+
+#: inc/customizer/customizer-theme-options.php:530
+msgid "Padding Bottom"
+msgstr "Relleno inferior"
+
+#: inc/customizer/customizer-theme-options.php:518
+#: inc/customizer/customizer-theme-options.php:531
+msgid "You have to use in px. Eg: 20px."
+msgstr "Tienes que usarlo en píxeles. Ejemplo: 20px."
+
+#: inc/customizer/customizer-theme-options.php:517
+msgid "Padding Top"
+msgstr "Relleno superior"
+
+#: inc/customizer/customizer-theme-options.php:506
+msgid "Site Logo"
+msgstr "Logotipo del sitio"
+
+#: inc/customizer/customizer-theme-options.php:493
+msgid "Logo & Header Options"
+msgstr "Opciones del logotipo y la cabecera"
+
+#: inc/customizer/customizer-theme-options.php:480
+msgid "Upload Fallback Image"
+msgstr "Subir la imagen de respaldo"
+
+#: inc/customizer/customizer-theme-options.php:470
+msgid "Enable Fallback Image"
+msgstr "Activar la imagen de respaldo"
+
+#: inc/customizer/customizer-theme-options.php:460
+msgid "Fallback Image"
+msgstr "Imagen de respaldo"
+
+#: inc/customizer/customizer-theme-options.php:443
+msgid "Excerpt is the short post content. Excerpt length sets the number of words that the excerpt can contain. This is the default excerpt length used for other pages too. Maximum excerpt length 40 and minimum excerpt length 20 can be set."
+msgstr "El extracto es un breve contenido de la entrada. La longitud del extracto establece el número de palabras que puede contener el extracto. Esta es la longitud del extracto por defecto, que también se usa para otras páginas. Puede establecerse una longitud máxima del extracto de 40 y una longitud mínima de 20."
+
+#: inc/customizer/customizer-theme-options.php:431
+#: inc/customizer/customizer-theme-options.php:442
+msgid "Excerpt Length"
+msgstr "Longitud del extracto"
+
+#: inc/customizer/customizer-theme-options.php:417
+msgid "Enable Scroll Top"
+msgstr "Activar el scroll al inicio"
+
+#: inc/customizer/customizer-theme-options.php:406
+msgid "Scroll Top"
+msgstr "Scroll al inicio"
+
+#: inc/customizer/customizer-theme-options.php:333
+msgid "Social Links"
+msgstr "Enlaces sociales"
+
+#: inc/customizer/customizer-theme-options.php:279
+msgid "Widget Title Typography"
+msgstr "Tipografía del título del widget"
+
+#: inc/customizer/customizer-theme-options.php:225
+msgid "Post Listing Title Typography"
+msgstr "Tipografía del título del listado de entradas"
+
+#: inc/customizer/customizer-theme-options.php:211
+#: inc/customizer/customizer-theme-options.php:265
+#: inc/customizer/customizer-theme-options.php:319
+#: inc/customizer/customizer-theme-options.php:570
+#: inc/customizer/customizer-theme-options.php:1487
+#: inc/customizer/customizer-theme-options.php:1528
+msgid "You can set font size in pixel or normal. Eg: 24px, 1.3em etc."
+msgstr "Puedes establecer el tamaño de la fuente en píxeles o normal. Ejemplo: 24px, 1.3em, etc."
+
+#: inc/customizer/customizer-theme-options.php:210
+#: inc/customizer/customizer-theme-options.php:264
+#: inc/customizer/customizer-theme-options.php:318
+msgid "Font Size"
+msgstr "Tamaño de la fuente"
+
+#: inc/customizer/customizer-theme-options.php:197
+#: inc/customizer/customizer-theme-options.php:251
+#: inc/customizer/customizer-theme-options.php:305
+msgid "Font Weight"
+msgstr "Grosor de la fuente"
+
+#: inc/customizer/customizer-theme-options.php:184
+#: inc/customizer/customizer-theme-options.php:238
+#: inc/customizer/customizer-theme-options.php:292
+msgid "Font Family"
+msgstr "Familia de fuentes"
+
+#: inc/customizer/customizer-theme-options.php:171
+msgid "Body Typography"
+msgstr "Tipografía del cuerpo"
+
+#: inc/customizer/customizer-theme-options.php:158
+msgid "Responsive : Sub Menu Background Color"
+msgstr "Adaptable: Color de fondo del submenú"
+
+#: inc/customizer/customizer-theme-options.php:148
+msgid "Sub Menu Border Color"
+msgstr "Color del borde del submenú"
+
+#: inc/customizer/customizer-theme-options.php:138
+msgid "Main Menu Border Color"
+msgstr "Color del borde del menú principal"
+
+#: inc/customizer/customizer-theme-options.php:128
+msgid "Sub Menu Background Color"
+msgstr "Color de fondo del submenú"
+
+#: inc/customizer/customizer-theme-options.php:118
+msgid "Main Menu Background Color"
+msgstr "Color de fondo del menú principal"
+
+#: inc/customizer/customizer-theme-options.php:108
+msgid "Sub Menu Link Hover Color"
+msgstr "Color de los enlaces del submenú al pasar el cursor"
+
+#: inc/customizer/customizer-theme-options.php:98
+msgid "Sub Menu Link Color"
+msgstr "Color de los enlaces del submenú"
+
+#: inc/customizer/customizer-theme-options.php:88
+msgid "Main Menu Link Hover Color"
+msgstr "Color de los enlaces del menú principal al pasar el cursor"
+
+#: inc/customizer/customizer-theme-options.php:78
+msgid "Main Menu Link Color"
+msgstr "Color de los enlaces de menú principal"
+
+#: inc/customizer/customizer-theme-options.php:66
+msgid "Menu Color"
+msgstr "Color del menú"
+
+#: inc/customizer/customizer-theme-options.php:53
+msgid "Primary Color"
+msgstr "Color principal"
+
+#: inc/customizer/customizer-theme-options.php:41
+msgid "Global Color"
+msgstr "Color global"
+
+#: inc/customizer/customizer-theme-options.php:28
+msgid "General Options"
+msgstr "Opciones generales"
+
+#: inc/customizer/customizer.php:51
+msgid "Site Background"
+msgstr "Fondo del sitio"
+
+#: inc/customizer/customizer.php:50
+msgid "Site Title Color"
+msgstr "Color del título del sitio"
+
+#: inc/template-functions.php:458
+msgid "right"
+msgstr "derecha"
+
+#: inc/template-functions.php:365 inc/woocommerce-functions.php:33
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d artículo"
+msgstr[1] "%d artículos"
+
+#: inc/template-functions.php:362 inc/woocommerce-functions.php:30
+msgid "View Cart"
+msgstr "Ver el carrito"
+
+#: inc/template-functions.php:308
+msgid "Log Out"
+msgstr "Salir"
+
+#: inc/template-functions.php:307
+msgid "Edit Profile"
+msgstr "Editar el perfil"
+
+#: inc/template-functions.php:306
+msgid "Reset Password"
+msgstr "Restablecer la contraseña"
+
+#: inc/template-functions.php:305
+msgid "Log In"
+msgstr "Acceder"
+
+#: inc/template-functions.php:304
+msgid "Sign Up"
+msgstr "Registro"
+
+#: inc/template-functions.php:153
+msgid "Comments Pagination"
+msgstr "Paginación de los comentarios"
+
+#: inc/template-functions.php:152
+msgid "Newer Comments"
+msgstr "Comentarios siguientes"
+
+#: inc/template-functions.php:151
+msgid "Older Comments"
+msgstr "Comentarios anteriores"
+
+#: inc/template-functions.php:136
+msgid "Previous"
+msgstr "Anterior"
+
+#: inc/template-functions.php:135
+msgid "Next"
+msgstr "Siguiente"
+
+#: inc/template-functions.php:131
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: inc/welcome/welcome.php:221
+msgid "Processing..."
+msgstr "Procesando..."
+
+#: inc/welcome/welcome.php:188
+msgid "Unable to connect to the filesystem. Please confirm your credentials."
+msgstr "No ha sido posible conectar con el sistema de archivos. Por favor, confirma tus credenciales."
+
+#: inc/welcome/welcome.php:110
+msgid "Sorry, you are not allowed to install plugins on this site."
+msgstr "Lo siento, no tienes permiso para instalar plugins en este sitio."
+
+#: inc/welcome/welcome.php:74
+msgid "Get started with %s"
+msgstr "Primeros pasos con %s"
+
+#: inc/welcome/welcome.php:74
+msgid "Clicking on get started will activate &quot;Wishful Companion&quot;, &quot;Email Capture &amp; Lead Generation&quot; plugins."
+msgstr "Al hacer clic en «Primeros pasos» se activarán los plugins «Wishful Companion» y «Email Capture &amp; Lead Generation»."
+
+#: inc/welcome/welcome.php:74
+msgid "Welcome! Thank you for choosing %1$s!. To fully take advantage of our theme what we offer, Lets Get Started."
+msgstr "¡Bienvenido! ¡Gracias por elegir %1$s! Vamos a comenzar para aprovechar completamente lo que nuestro tema puede ofrecer."
+
+#: inc/customizer/customizer-theme-options.php:834
+#: widgets/eclg-newsletter-widget.php:159
+msgid "Button Title"
+msgstr "Título del botón"
+
+#: widgets/eclg-newsletter-widget.php:153
+msgid "Display Last Name Field"
+msgstr "Mostrar el campo «Apellidos»"
+
+#: widgets/eclg-newsletter-widget.php:146
+msgid "Display First Name Field"
+msgstr "Mostrar el campo «Nombre»"
+
+#: widgets/eclg-newsletter-widget.php:126
+msgid "Email Capture &amp; Lead Generation"
+msgstr "Email Capture &amp; Lead Generation"
+
+#. translators: %1$s: plugin name.
+#: widgets/eclg-newsletter-widget.php:125
+msgid "Please install and activate %1$s plugin to use Newsletter widget."
+msgstr "Por favor, para usar el widget del boletín, instala y activa el plugin %1$s."
+
+#: widgets/eclg-newsletter-widget.php:44 widgets/eclg-newsletter-widget.php:113
+msgid "Submit"
+msgstr "Enviar"
+
+#: widgets/eclg-newsletter-widget.php:23
+msgid "WB : Newsletter Widget"
+msgstr "WB : Widget del boletín"
+
+#: widgets/eclg-newsletter-widget.php:19
+msgid "Custom Wishful Blog Newsletter Plugin compatible with ECLG Newsletter."
+msgstr "Plugin personalizado de boletín para Wishful Blog, compatible con el boletín de ECGL."
+
+#: widgets/post-widget-layout-one.php:146
+msgid "Place \"Post Widget Layout One\" in \"Sidebar or Footer Widget Area\"."
+msgstr "Coloca el diseño uno del widget de entradas en la barra lateral o en el área de widgets del pie de página."
+
+#: widgets/post-widget-layout-one.php:23
+msgid "WB : Post Widget Layout One"
+msgstr "WB: Diseño uno del widget de entradas"
+
+#: widgets/post-widget-layout-one.php:19
+msgid "Custom Wishful Blog Post Widget Layout One"
+msgstr "Diseño uno del widget de entradas personalizado para Wishful Blog"
+
+#: widgets/wishful-author-widget.php:158
+msgid "Author Link Title"
+msgstr "Título del enlace del autor"
+
+#: widgets/wishful-author-widget.php:150
+msgid "&mdash; Select Page &mdash;"
+msgstr "— Seleccionar una página —"
+
+#: widgets/wishful-author-widget.php:142
+msgid "Author Page"
+msgstr "Página del autor"
+
+#: widgets/wishful-author-widget.php:104
+msgid "Place \"Author Widget\" in \"Sidebar or Footer Widget Area\"."
+msgstr "Coloca el widget del autor en la barra lateral o en el área de widgets del pie de página."
+
+#: widgets/wishful-author-widget.php:23
+msgid "WB : Author Widget"
+msgstr "WB: Widget del autor"
+
+#: widgets/wishful-author-widget.php:19
+msgid "Custom Wishful Blog Author Widget"
+msgstr "Widget del autor personalizado para Wishful Blog"
+
+#: widgets/homepage-post-widget.php:207
+msgid "Layout Style"
+msgstr "Estilo del diseño"
+
+#: widgets/homepage-post-widget.php:23
+msgid "WB : Homepage Post Widget"
+msgstr "WB: Widget de entradas de la página de inicio"
+
+#: widgets/homepage-post-widget.php:19
+msgid "Custom Wishful Blog Homepage Post Widget"
+msgstr "Widget de entradas de la página de inicio personalizado para Wishful Blog"
+
+#: widgets/social-widget.php:165
+msgid "Vimeo Link"
+msgstr "Enlace de Vimeo"
+
+#: inc/customizer/customizer-theme-options.php:368
+#: widgets/social-widget.php:158
+msgid "Pinterest Link"
+msgstr "Enlace de Pinterest"
+
+#: inc/customizer/customizer-theme-options.php:380
+#: widgets/social-widget.php:151
+msgid "Instagram Link"
+msgstr "Enlace de Instagram"
+
+#: inc/customizer/customizer-theme-options.php:392
+#: widgets/social-widget.php:144
+msgid "Youtube Link"
+msgstr "Enlace de YouTube"
+
+#: inc/customizer/customizer-theme-options.php:356
+#: widgets/social-widget.php:137
+msgid "Twitter Link"
+msgstr "Enlace de Twitter"
+
+#: inc/customizer/customizer-theme-options.php:344
+#: widgets/social-widget.php:130
+msgid "Facebook Link"
+msgstr "Enlace de Facebook"
+
+#: widgets/social-widget.php:91
+msgid "Place \"Social Widget\" in \"Sidebar or Footer Widget Area\"."
+msgstr "Coloca el widget social en la barra lateral o en el área de widgets del pie de página."
+
+#: widgets/social-widget.php:78
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: widgets/social-widget.php:74
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: widgets/social-widget.php:70
+msgid "instagram"
+msgstr "Instagram"
+
+#: widgets/social-widget.php:66
+msgid "Youtube"
+msgstr "YouTube"
+
+#: widgets/social-widget.php:62
+msgid "Twitter"
+msgstr "Twitter"
+
+#: widgets/social-widget.php:58
+msgid "Facebook"
+msgstr "Facebook"
+
+#: widgets/social-widget.php:23
+msgid "WB : Social Widget"
+msgstr "WB: Widget social"
+
+#: widgets/social-widget.php:19
+msgid "Custom Wishful Blog Social Widget"
+msgstr "Widget social personalizado para Wishful Blog"
+
+#: inc/theme-functions.php:530 widgets/homepage-post-widget.php:277
+#: widgets/post-widget-layout-one.php:236
+#: widgets/post-widget-layout-two.php:239
+msgid "Display Comment No."
+msgstr "Mostrar el número de comentarios"
+
+#: inc/customizer/customizer-theme-options.php:860
+#: inc/customizer/customizer-theme-options.php:941
+#: inc/customizer/customizer-theme-options.php:1060
+#: inc/customizer/customizer-theme-options.php:1168
+#: inc/customizer/customizer-theme-options.php:1220 inc/theme-functions.php:529
+#: widgets/homepage-post-widget.php:276 widgets/post-widget-layout-one.php:235
+#: widgets/post-widget-layout-two.php:238
+msgid "Display Category"
+msgstr "Mostrar la categoría"
+
+#: widgets/homepage-post-widget.php:271 widgets/post-widget-layout-one.php:230
+#: widgets/post-widget-layout-two.php:233
+msgid "Display Options"
+msgstr "Mostrar las opciones"
+
+#: widgets/homepage-post-widget.php:264 widgets/post-widget-layout-one.php:223
+#: widgets/post-widget-layout-two.php:226
+msgid "No of Posts"
+msgstr "Número de entradas"
+
+#: widgets/homepage-post-widget.php:244 widgets/post-widget-layout-one.php:203
+#: widgets/post-widget-layout-two.php:206
+msgid "Post Type"
+msgstr "Tipo de contenido"
+
+#: widgets/homepage-post-widget.php:236 widgets/post-widget-layout-one.php:195
+#: widgets/post-widget-layout-two.php:198
+msgid "Show All Category Posts"
+msgstr "Mostrar todas las entradas de la categoría"
+
+#: widgets/homepage-post-widget.php:227 widgets/post-widget-layout-one.php:186
+#: widgets/post-widget-layout-two.php:189
+msgid "Select Category"
+msgstr "Seleccionar la categoría"
+
+#: widgets/eclg-newsletter-widget.php:138 widgets/homepage-post-widget.php:200
+#: widgets/post-widget-layout-one.php:179
+#: widgets/post-widget-layout-two.php:182 widgets/social-widget.php:123
+#: widgets/wishful-author-widget.php:135
+msgid "Title"
+msgstr "Título"
+
+#: widgets/post-widget-layout-two.php:149
+msgid "Place \"Post Widget Layout Two\" in \"Sidebar or Footer Widget Area\"."
+msgstr "Coloca el diseño dos del widget de entradas en la barra lateral o en el área de widgets del pie de página."
+
+#: template-parts/content-none.php:44
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Parece que no hemos podido encontrar lo que estás buscando. Quizá pueda ayudarte una búsqueda."
+
+#: 404.php:23 template-parts/content-none.php:37
+#: template-parts/content-none.php:49
+msgid "Back Home"
+msgstr "Volver al inicio"
+
+#: template-parts/content-none.php:32
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Lo siento, pero no hay nada que coincida con tus términos de búsqueda. Por favor, inténtalo de nuevo con algunas palabras clave diferentes."
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "¿Preparado para publicar tu primera entrada? <a href=\"%1$s\">Empieza aquí</a>."
+
+#: template-parts/content-none.php:12
+msgid "Nothing Found"
+msgstr "No se ha encontrado nada"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: attachment.php:34 inc/template-tags.php:308 page.php:80
+#: template-parts/content.php:60
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Editar <span class=\"screen-reader-text\">%s</span>"
+
+#: inc/template-functions.php:946 inc/template-functions.php:951
+#: inc/template-functions.php:956 template-parts/banner/banner-one.php:52
+#: template-parts/banner/banner-two.php:63
+#: template-parts/banner/banner-two.php:124
+msgid "Read More"
+msgstr "Leer más"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://wishfulthemes.com/"
+msgstr "https://wishfulthemes.com/"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "wishfulthemes"
+msgstr "wishfulthemes"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://www.wishfulthemes.com/themes/wishful-blog/"
+msgstr "https://www.wishfulthemes.com/themes/wishful-blog/"

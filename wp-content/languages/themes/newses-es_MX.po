@@ -1,0 +1,750 @@
+# Translation of Themes - Newses in Spanish (Mexico)
+# This file is distributed under the same license as the Themes - Newses package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-07-06 15:04:50+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: es_MX\n"
+"Project-Id-Version: Themes - Newses\n"
+
+#. Description of the theme
+#: inc/ansar/admin/getting-started.php:90
+#, gp-priority: high
+msgid "Newses is an indispensable Responsive News and Magazine template with a clean, modern design suitable for everyone who wants to share their stories and the latest breaking news or the hottest products. the theme comes light and dark color mode, Newses is suitable for dynamic news, newspapers, magazine, publishers, blogs, editors, online and gaming magazines, newsportals, personal blogs, newspaper, agencies, publishing or review siteand any creative website. Newses is SEO friendly, WPML, Gutenberg, WooCommerce, translation and RTL ready. We offer great support and friendly help!. Live preview : https://demos.themeansar.com/newses and documentation at https://docs.themeansar.com/docs/newses/"
+msgstr "Newses es una plantilla adaptable indispensable para sitios de noticias y revistas, con un layout limpio y moderno adecuado para todos los que quieran compartir sus historias y las últimas noticias o los productos más populares. El tema viene en modo de color claro y oscuro, Newses es adecuado para noticias dinámicas, periódicos, revistas, editoriales, blogs, editores, revistas en línea y juegos, portales de noticias, blogs personales, periódicos, agencias, sitios de publicación o revisión y cualquier web creativa. Newses es compatible con SEO, WPML, Gutenberg, WooCommerce y está preparado para la traducción y RTL. ¡Ofrecemos un gran soporte y ayuda amigable! Vista previa en vivo: https://demos.themeansar.com/newses y documentación en https://docs.themeansar.com/docs/newses/"
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "Newses"
+msgstr "Newses"
+
+#: inc/ansar/customize/theme-options.php:1315
+msgid "Hide/Show Footer Menu"
+msgstr "Ocultar o mostrar el menú de pie de página"
+
+#: inc/ansar/customize/theme-options.php:1296
+msgid "Footer Menu"
+msgstr "Menú del pie de página"
+
+#: inc/ansar/customize/theme-options.php:21
+#: inc/ansar/customize/theme-options.php:45
+msgid "Skin color"
+msgstr "Color del tema"
+
+#: inc/ansar/customize/theme-options.php:1013
+msgid "Text Color"
+msgstr "Color del texto"
+
+#: inc/ansar/customize/theme-options.php:356
+#: inc/ansar/customize/theme-options.php:1265
+msgid "Telegram URL"
+msgstr "URL de Telegram"
+
+#: inc/ansar/customize/theme-options.php:744
+msgid "Hide/Show Tag"
+msgstr "Ocultar o mostrar etiqueta"
+
+#: inc/ansar/customize/theme-options.php:773
+msgid "Hide/Show Sharing Icons"
+msgstr "Ocultar/mostrar los iconos para compartir"
+
+#: inc/ansar/template-tags.php:76 inc/ansar/template-tags.php:85
+#: inc/ansar/template-tags.php:93 single.php:175
+msgid "Edit"
+msgstr "Editar"
+
+#: inc/ansar/admin/tabs/recommended-plugins-panel.php:36
+msgid "To display Newses Frontpage widget, please install the"
+msgstr "Para mostrar el widget de portada de Newses, por favor, instala el"
+
+#: inc/ansar/admin/tabs/recommended-plugins-panel.php:37
+msgid "Shortbuild plugin"
+msgstr "plugin Shortbuild"
+
+#: inc/ansar/admin/tabs/recommended-plugins-panel.php:37
+msgid " then go to Widgets menu under Appearance and drag wigdet in Front-page content Section"
+msgstr " y, después, ve al menú Widgets en Apariencia y arrastra el widget en la sección del contenido de la portada"
+
+#: inc/ansar/admin/tabs/recommended-plugins-panel.php:43
+msgid "Ansar Import Plugin"
+msgstr "Ansar Import Plugin"
+
+#: functions.php:221
+msgid "Front-page Sidebar Section"
+msgstr "Sección de la barra lateral de la portada"
+
+#: functions.php:211
+msgid "Front-page Content Section"
+msgstr "Sección de contenido de la portada"
+
+#: inc/ansar/customize/theme-options.php:505
+msgid "Boxed"
+msgstr "Encajonado"
+
+#: inc/ansar/customize/theme-options.php:504
+msgid "Wide"
+msgstr "Anchura máxima"
+
+#: inc/ansar/customize/theme-options.php:487
+msgid "Site Layout"
+msgstr "Layout del sitio"
+
+#: inc/ansar/customize/theme-options.php:502
+msgid "Choose your site layout"
+msgstr "Elige el layout de tu sitio"
+
+#: 404.php:36
+msgid "Go Back"
+msgstr "Volver"
+
+#: 404.php:35
+msgid "We are sorry, but the page you are looking for does not exist."
+msgstr "Lo sentimos, pero la página que estás buscando no existe."
+
+#: 404.php:34
+msgid "Oops! Page not found"
+msgstr "¡Vaya! Página no encontrada"
+
+#: 404.php:33
+msgid "4"
+msgstr "4"
+
+#: 404.php:14 404.php:18
+msgid "404"
+msgstr "404"
+
+#: comments.php:91
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#: comments.php:59 comments.php:80
+msgid "Newer Comments"
+msgstr "Comentarios recientes"
+
+#: comments.php:58 comments.php:79
+msgid "Older Comments"
+msgstr "Comentarios anteriores"
+
+#: comments.php:55 comments.php:76
+msgid "Comment navigation"
+msgstr "Navegación de comentarios"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:37
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s comentario en \"%2$s\""
+msgstr[1] "%1$s comentarios en \"%2$s\""
+
+#. translators: %s: post title
+#: comments.php:32
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Un comentario en \"%s\""
+
+#: single.php:37
+msgid "By"
+msgstr "por"
+
+#: search.php:49
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "Lo siento, pero no hay nada que coincida con tu criterio de búsqueda. Por favor, inténtalo de nuevo con otras palabras clave."
+
+#: search.php:47
+msgid "Nothing Found"
+msgstr "No se ha encontrado nada"
+
+#. translators: %s: search term
+#: search.php:18
+msgid "Search Results for: %s"
+msgstr "Resultados de la búsqueda de: %s"
+
+#: header.php:27
+msgid "Skip to content"
+msgstr "Saltar al contenido"
+
+#: functions.php:231
+msgid "Footer Widget Area"
+msgstr "Área de widgets del pie de página"
+
+#: functions.php:201
+msgid "Sidebar Widget Area"
+msgstr "Área de widgets de la barra lateral"
+
+#: functions.php:89
+msgid "Footer menu"
+msgstr "Menú del pie de página"
+
+#: functions.php:88
+msgid "Primary menu"
+msgstr "Menú principal"
+
+#. translators: placeholder replaced with string
+#: footer.php:193
+msgid "https://themeansar.com/"
+msgstr "https://themeansar.com/"
+
+#. translators: placeholder replaced with string
+#: footer.php:193
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s por %2$s."
+
+#. translators: placeholder replaced with string
+#: footer.php:187
+msgid "Proudly powered by %s"
+msgstr "Funciona gracias a %s"
+
+#: inc/ansar/hooks/hook-meta.php:23 inc/ansar/hooks/hook-meta.php:61
+msgid "Select category color class. You can set appropriate categories color on \"Categories\" section of the theme customizer."
+msgstr "Selecciona la clase del color de la categoría. Puedes establecer el color de las categorías en la sección \"Categorías\" del personalizador del tema."
+
+#: inc/ansar/hooks/hook-meta.php:17 inc/ansar/hooks/hook-meta.php:45
+msgid "Color Class"
+msgstr "Clase de color"
+
+#: inc/ansar/hooks/hook-meta.php:12 inc/ansar/hooks/hook-meta.php:52
+msgid "Category Color 4"
+msgstr "Color de la categoría 4"
+
+#: inc/ansar/hooks/hook-meta.php:11 inc/ansar/hooks/hook-meta.php:51
+msgid "Category Color 3"
+msgstr "Color de la categoría 3"
+
+#: inc/ansar/hooks/hook-meta.php:10 inc/ansar/hooks/hook-meta.php:50
+msgid "Category Color 2"
+msgstr "Color de la categoría 2"
+
+#: inc/ansar/hooks/hook-meta.php:9 inc/ansar/hooks/hook-meta.php:49
+msgid "Category Color 1"
+msgstr "Color de la categoría 1"
+
+#: inc/ansar/template-tags.php:104
+msgid "Read More"
+msgstr "Leer más"
+
+#: inc/ansar/admin/getting-started.php:168
+msgid "Get started with Newses"
+msgstr "Primeros pasos con Newses"
+
+#: inc/ansar/admin/getting-started.php:166
+msgid "Thank you for choosing Newses theme. To take full advantage of the complete features of the theme, you have to go to our %1$s welcome page %2$s."
+msgstr "Gracias por elegir el tema de Newses. Para aprovechar al máximo las características completas del tema, tienes que ir a nuestra %1$s página de bienvenida %2$s."
+
+#: inc/ansar/admin/getting-started.php:164
+msgid "Congratulations, Welcome to %1$s Theme"
+msgstr "Felicidades y bienvenido al tema %1$s"
+
+#: inc/ansar/admin/getting-started.php:129
+msgid "Your feedback is valuable to us"
+msgstr "Tus comentarios son valiosos para nosotros"
+
+#: inc/ansar/admin/getting-started.php:126
+msgid "Get Support"
+msgstr "Obtener soporte"
+
+#: inc/ansar/admin/getting-started.php:125
+msgid "Newses Theme Support"
+msgstr "Soporte del tema Newses"
+
+#: inc/ansar/admin/getting-started.php:113
+msgid "Useful Plugins"
+msgstr "Plugins útiles"
+
+#: inc/ansar/admin/getting-started.php:100
+msgid "Getting Started"
+msgstr "Primeros pasos"
+
+#. translators: %1$s %2$s: welcome message
+#: inc/ansar/admin/getting-started.php:89
+msgid "Welcome to %1$s - Version %2$s"
+msgstr "Bienvenido a %1$s - Versión %2$s"
+
+#: inc/ansar/admin/getting-started.php:37
+msgid "Activating "
+msgstr "Activando"
+
+#. translators: %1$s: welcome page
+#: inc/ansar/admin/getting-started.php:21
+msgid "Welcome to %1$s"
+msgstr "Bienvenido a %1$s"
+
+#. translators: %1$s %2$s: about
+#: inc/ansar/admin/getting-started.php:19
+msgid "About %1$s %2$s"
+msgstr "Acerca de %1$s %2$s"
+
+#: inc/ansar/admin/tabs/useful-plugin-panel.php:46
+msgid "To use the Elementor layouts and pages, install the Elementor plugin."
+msgstr "Para usar los layouts y páginas de Elementor, instala el plugin Elementor."
+
+#: inc/ansar/admin/tabs/useful-plugin-panel.php:42
+msgid "To display the Woocommerce layout, please install the Woocommerce plugin."
+msgstr "Para mostrar el layout de WooCommerce, por favor, instala el plugin WooCommerce."
+
+#: inc/ansar/admin/tabs/useful-plugin-panel.php:38
+msgid "To display the contact form, please install the Contact Form 7 plugin."
+msgstr "Para mostrar el formulario de contacto, por favor, instala el plugin Contact Form 7."
+
+#: inc/ansar/admin/tabs/getting-started-panel.php:20
+msgid "Visit the Support"
+msgstr "Visitar el soporte"
+
+#: inc/ansar/admin/tabs/getting-started-panel.php:19
+#: inc/ansar/admin/tabs/getting-started-panel.php:20
+msgid "Go to the Customizer"
+msgstr "Ir al personalizador"
+
+#: inc/ansar/admin/tabs/getting-started-panel.php:16
+msgid "Documentation"
+msgstr "Documentación"
+
+#: inc/ansar/admin/tabs/getting-started-panel.php:16
+msgid "Newses Support"
+msgstr "Soporte de Newses"
+
+#: inc/ansar/admin/tabs/getting-started-panel.php:16
+msgid "https://docs.themeansar.com/docs/newses/"
+msgstr "https://docs.themeansar.com/docs/newses/"
+
+#: inc/ansar/admin/tabs/getting-started-panel.php:14
+msgid "Newses Documentation"
+msgstr "Documentación de Newses"
+
+#: inc/ansar/admin/getting-started.php:105
+#: inc/ansar/admin/tabs/getting-started-panel.php:10
+#: inc/ansar/admin/tabs/getting-started-panel.php:11
+msgid "Demo Content"
+msgstr "Contenido de demostración"
+
+#: inc/ansar/admin/class-getting-start-plugin-helper.php:112
+msgid "Deactivate"
+msgstr "Desactivar"
+
+#: inc/ansar/admin/class-getting-start-plugin-helper.php:97
+msgid "Activate"
+msgstr "Activar"
+
+#: inc/ansar/admin/class-getting-start-plugin-helper.php:93
+msgid "Install and activate"
+msgstr "Instalar y activar"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/ansar/template-functions.php:196 inc/ansar/template-functions.php:252
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Editar <span class=\"screen-reader-text\">%s</span>"
+
+#: inc/ansar/customize-pro/class-customize.php:65
+msgid "Go Pro"
+msgstr "Ir a la versión Pro"
+
+#: inc/ansar/customize-pro/class-customize.php:64
+msgid "Newses Pro Available!"
+msgstr "¡Newses Pro está disponible!"
+
+#: inc/ansar/newses-custom-navwalker.php:207
+msgid "Add a menu"
+msgstr "Añadir un menú"
+
+#: inc/ansar/customize/customizer-control.php:158
+msgid "All"
+msgstr "Todos"
+
+#: inc/ansar/customize/customizer-default.php:92
+msgid "You may have missed"
+msgstr "Te pueden interesar"
+
+#: inc/ansar/customize/customizer-default.php:73
+msgid "Featured Story"
+msgstr "Historia destacada"
+
+#: inc/ansar/customize/customizer-default.php:67
+msgid "Popular"
+msgstr "Populares"
+
+#: inc/ansar/customize/customizer-default.php:66
+msgid "Latest"
+msgstr "Últimas"
+
+#: inc/ansar/customize/customizer-default.php:45
+#: inc/ansar/customize/customizer-default.php:68
+msgid "Trending"
+msgstr "Tendencias"
+
+#: inc/ansar/customize/customizer-default.php:36
+msgid "Latest Post"
+msgstr "Ultimas entradas"
+
+#: inc/ansar/customize/theme-options.php:1233
+msgid "Pinterest URL"
+msgstr "URL de Pinterest"
+
+#: inc/ansar/customize/theme-options.php:1028
+msgid "Select Column Layout"
+msgstr "Selecciona el layout de columna"
+
+#: inc/ansar/customize/theme-options.php:988
+msgid "Background Image"
+msgstr "Imagen de fondo"
+
+#: inc/ansar/customize/theme-options.php:960
+msgid "Footer Options"
+msgstr "Opciones del pie de página"
+
+#: inc/ansar/customize/theme-options.php:940
+msgid "You Missed"
+msgstr "Te has perdido"
+
+#: inc/ansar/customize/theme-options.php:929
+msgid "Hide / Show You Missed Section"
+msgstr "Mostrar/ocultar la sección \"Te has perdido\""
+
+#: inc/ansar/customize/theme-options.php:914
+msgid "You Missed Section"
+msgstr "Sección \"Te has perdido\""
+
+#: footer.php:184
+msgid "https://wordpress.org/"
+msgstr "https://es-mx.wordpress.org/"
+
+#: inc/ansar/admin/getting-started.php:130
+msgid "Submit a review"
+msgstr "Enviar una valoración"
+
+#: inc/ansar/customize/theme-options.php:905
+msgid "Hide/Show Comments"
+msgstr "Ocultar/mostrar los comentarios"
+
+#: inc/ansar/customize/theme-options.php:842
+msgid "Related Posts"
+msgstr "Entradas relacionadas"
+
+#: inc/ansar/customize/theme-options.php:834
+msgid "Enable Related Posts"
+msgstr "Activar las entradas relacionadas"
+
+#: inc/ansar/customize/theme-options.php:820 single.php:123
+msgid "Related Post"
+msgstr "Entrada relacionada"
+
+#: inc/ansar/customize/theme-options.php:759
+msgid "Hide/Show Featured Image"
+msgstr "Ocultar/mostrar la imagen destacada"
+
+#: inc/ansar/customize/theme-options.php:731
+#: inc/ansar/customize/theme-options.php:877
+msgid "Hide/Show Date"
+msgstr "Ocultar/mostrar la fecha"
+
+#: inc/ansar/customize/theme-options.php:717
+#: inc/ansar/customize/theme-options.php:803
+#: inc/ansar/customize/theme-options.php:891
+msgid "Hide/Show Author Details"
+msgstr "Ocultar/mostrar los detalles del autor"
+
+#: inc/ansar/customize/theme-options.php:702
+#: inc/ansar/customize/theme-options.php:863
+msgid "Hide/Show Categories"
+msgstr "Ocultar/mostrar las categorías"
+
+#: inc/ansar/customize/theme-options.php:666
+#: inc/ansar/customize/theme-options.php:686
+msgid "Single Post"
+msgstr "Entrada individual"
+
+#: inc/ansar/customize/theme-options.php:656
+msgid "Hide All"
+msgstr "Ocultar todo"
+
+#: inc/ansar/customize/theme-options.php:655
+msgid "Show Author Only"
+msgstr "Mostrar solo el autor"
+
+#: inc/ansar/customize/theme-options.php:654
+msgid "Show Date Only"
+msgstr "Mostrar solo la fecha"
+
+#: inc/ansar/customize/theme-options.php:653
+msgid "Show Date and Author"
+msgstr "Mostrar la fecha y el autor"
+
+#: inc/ansar/customize/theme-options.php:630
+#: inc/ansar/customize/theme-options.php:649
+msgid "Date and Author"
+msgstr "Fecha y autor"
+
+#: inc/ansar/customize/theme-options.php:589
+msgid "Single Blog Pages"
+msgstr "Páginas de blog individuales"
+
+#: inc/ansar/customize/theme-options.php:540
+msgid "Archive Blog Pages"
+msgstr "Páginas del archivo del blog"
+
+#: inc/ansar/customize/theme-options.php:521
+msgid "Content Layout Settings"
+msgstr "Ajustes del layout del contenido"
+
+#: inc/ansar/customize/theme-options.php:457
+msgid "Link"
+msgstr "Enlace"
+
+#: inc/ansar/customize/theme-options.php:439
+msgid "Hide / Show Watch Button"
+msgstr "Ocultar/mostrar el botón \"Ver\""
+
+#: inc/ansar/customize/theme-options.php:424
+msgid "Hide / Show Search Icon"
+msgstr "Ocultar/mostrar el ícono del buscador"
+
+#: inc/ansar/customize/theme-options.php:409
+msgid "Header Options"
+msgstr "Opciones de la cabecera"
+
+#: inc/ansar/customize/theme-options.php:323
+msgid "Pintrest URL"
+msgstr "URL de Pinterest"
+
+#: inc/ansar/customize/theme-options.php:292
+#: inc/ansar/customize/theme-options.php:1202
+msgid "Youtube URL"
+msgstr "URL de YouTube"
+
+#: inc/ansar/customize/theme-options.php:261
+#: inc/ansar/customize/theme-options.php:1171
+msgid "Instagram URL"
+msgstr "URL de Instagram"
+
+#: inc/ansar/customize/theme-options.php:228
+#: inc/ansar/customize/theme-options.php:1139
+msgid "Linkedin URL"
+msgstr "URL de LinkedIn"
+
+#: inc/ansar/customize/theme-options.php:197
+#: inc/ansar/customize/theme-options.php:1107
+msgid "Twitter URL"
+msgstr "URL de Twitter"
+
+#: inc/ansar/customize/theme-options.php:163
+#: inc/ansar/customize/theme-options.php:1076
+msgid "Facebook URL"
+msgstr "URL de Facebook"
+
+#: inc/ansar/customize/theme-options.php:145
+#: inc/ansar/customize/theme-options.php:1058
+msgid "Hide / Show Social Icon"
+msgstr "Ocultar/mostrar los íconos sociales"
+
+#: inc/ansar/customize/theme-options.php:117
+msgid "From WordPress Setting"
+msgstr "Desde los ajustes de WordPress"
+
+#: inc/ansar/customize/theme-options.php:114
+msgid "Date / Time in header display type:"
+msgstr "Tipo de visualización de la fecha y hora en la cabecera:"
+
+#: inc/ansar/customize/theme-options.php:99
+msgid "Hide / Show Time"
+msgstr "Ocultar/mostrar la hora"
+
+#: inc/ansar/customize/theme-options.php:85
+msgid "Hide / Show Date"
+msgstr "Ocultar/mostrar la fecha"
+
+#: inc/ansar/customize/theme-options.php:55
+msgid "Top Header Options"
+msgstr "Opciones de la cabecera superior"
+
+#: inc/ansar/customize/theme-options.php:13
+msgid "Theme Options"
+msgstr "Ajustes del tema"
+
+#: inc/ansar/customize/frontpage-options.php:458
+msgid "Editorials Section"
+msgstr "Secciones editoriales"
+
+#: inc/ansar/customize/frontpage-options.php:416
+msgid "Slider Thumbnail Posts"
+msgstr "Miniaturas de las entradas del carrusel"
+
+#: inc/ansar/customize/frontpage-options.php:394
+msgid "Posts to be shown on banner slider section"
+msgstr "Entradas a mostrar en la sección del carrusel del banner"
+
+#: inc/ansar/customize/frontpage-options.php:371
+msgid "Slider Section "
+msgstr "Sección del carrusel"
+
+#: inc/ansar/customize/frontpage-options.php:350
+msgid "Posts to be shown on trending post section"
+msgstr "Entradas a mostrar en las entradas en tendencia"
+
+#: inc/ansar/customize/frontpage-options.php:349
+#: inc/ansar/customize/frontpage-options.php:393
+#: inc/ansar/customize/frontpage-options.php:437
+#: inc/ansar/customize/frontpage-options.php:479
+msgid "Category"
+msgstr "Categoría"
+
+#: inc/ansar/customize/frontpage-options.php:328
+#: inc/ansar/customize/theme-options.php:848
+#: inc/ansar/customize/theme-options.php:950
+msgid "Title"
+msgstr "Título"
+
+#: inc/ansar/customize/frontpage-options.php:309
+msgid "Right"
+msgstr "Derecha"
+
+#: inc/ansar/customize/frontpage-options.php:308
+msgid "Left"
+msgstr "Izquierda"
+
+#: inc/ansar/customize/frontpage-options.php:304
+msgid "Select Trending Carousel Position"
+msgstr "Seleccionar la posición del carrusel de tendencias"
+
+#: inc/ansar/customize/frontpage-options.php:284
+msgid "Trending Section "
+msgstr "Sección de tendencias"
+
+#: inc/ansar/customize/frontpage-options.php:266
+msgid "Enable Slider Banner Section"
+msgstr "Activar la sección del carrusel del banner"
+
+#: inc/ansar/customize/frontpage-options.php:248
+msgid "Slider Banner Section"
+msgstr "Sección del carrusel del banner"
+
+#: inc/ansar/customize/frontpage-options.php:232
+msgid "Posts to be shown on trending posts "
+msgstr "Entradas a mostrar en las entradas en tendencia"
+
+#: inc/ansar/customize/frontpage-options.php:231
+msgid "Latest Posts Category"
+msgstr "Categoría de las últimas entradas"
+
+#: inc/ansar/customize/frontpage-options.php:210
+msgid "Latest Post Title"
+msgstr "Título de las últimas entradas"
+
+#: inc/ansar/customize/frontpage-options.php:190
+msgid "Enable Latest Posts Section"
+msgstr "Activar la sección de últimas entradas"
+
+#: inc/ansar/customize/frontpage-options.php:173
+msgid "Latest Posts"
+msgstr "Últimas entradas"
+
+#: inc/ansar/customize/frontpage-options.php:158
+msgid "Section Title"
+msgstr "Título de la sección"
+
+#: inc/ansar/customize/frontpage-options.php:138
+msgid "Hide/Show Top Tags"
+msgstr "Ocultar/mostrar las etiquetas principales"
+
+#: inc/ansar/customize/customizer-default.php:31
+#: inc/ansar/customize/frontpage-options.php:122
+msgid "Top Tags"
+msgstr "Etiquetas principales"
+
+#: inc/ansar/customize/frontpage-options.php:111
+#: inc/ansar/customize/theme-options.php:179
+#: inc/ansar/customize/theme-options.php:211
+#: inc/ansar/customize/theme-options.php:243
+#: inc/ansar/customize/theme-options.php:275
+#: inc/ansar/customize/theme-options.php:306
+#: inc/ansar/customize/theme-options.php:338
+#: inc/ansar/customize/theme-options.php:371
+#: inc/ansar/customize/theme-options.php:471
+#: inc/ansar/customize/theme-options.php:1090
+#: inc/ansar/customize/theme-options.php:1122
+#: inc/ansar/customize/theme-options.php:1153
+#: inc/ansar/customize/theme-options.php:1185
+#: inc/ansar/customize/theme-options.php:1216
+#: inc/ansar/customize/theme-options.php:1247
+#: inc/ansar/customize/theme-options.php:1279
+msgid "Open link in a new tab"
+msgstr "Abrir el enlace en una pestaña nueva"
+
+#: inc/ansar/customize/frontpage-options.php:96
+msgid "URL Link"
+msgstr "URL del enlace"
+
+#: inc/ansar/customize/frontpage-options.php:75
+msgid "Recommended Size %1$s px X %2$s px"
+msgstr "Tamaño recomendado %1$s px × %2$s px"
+
+#: inc/ansar/customize/frontpage-options.php:74
+msgid "Banner Section Advertisement"
+msgstr "Anuncio de la sección del banner"
+
+#: inc/ansar/customize/frontpage-options.php:56
+msgid "Banner Advertisement"
+msgstr "Banner publicitario"
+
+#: inc/ansar/customize/frontpage-options.php:48
+msgid "Frontpage Options"
+msgstr "Opciones de portada"
+
+#: inc/ansar/customize/frontpage-options.php:39
+msgid "Remove Image Overlay"
+msgstr "Eliminar la superposición de la imagen"
+
+#: inc/ansar/customize/frontpage-options.php:24
+#: inc/ansar/customize/theme-options.php:1001
+msgid "Overlay Color"
+msgstr "Color de la superposición"
+
+#: inc/ansar/customize/customizer.php:284
+msgid "Site Title/Tagline Color"
+msgstr "Color del títuloy la descripción corta del sitio"
+
+#: inc/ansar/customize/customizer.php:260
+msgid "Site Title Size"
+msgstr "Tamaño del título del sitio"
+
+#. Template Name of the theme
+msgid "Frontpage"
+msgstr "Portada"
+
+#: 404.php:17 index-banner.php:29
+msgid "Home"
+msgstr "Inicio"
+
+#. Template Name of the theme
+msgid "Page Builder Template"
+msgstr "Plantilla del maquetador de páginas"
+
+#: searchform.php:3
+msgctxt "placeholder"
+msgid "Search"
+msgstr "Buscar"
+
+#: inc/ansar/customize/theme-options.php:116
+msgid "Theme Default Setting"
+msgstr "Ajuste predeterminado del tema"
+
+#: inc/ansar/customize/theme-options.php:564
+#: inc/ansar/customize/theme-options.php:613
+msgid "Layout"
+msgstr "Layout"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://themeansar.com"
+msgstr "https://themeansar.com"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "Themeansar"
+msgstr "Themeansar"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://themeansar.com/free-themes/newses/"
+msgstr "https://themeansar.com/free-themes/newses/"

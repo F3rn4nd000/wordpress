@@ -1,0 +1,664 @@
+# Translation of Themes - Poseidon in Spanish (Mexico)
+# This file is distributed under the same license as the Themes - Poseidon package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-03-10 17:13:16+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: es_MX\n"
+"Project-Id-Version: Themes - Poseidon\n"
+
+#: inc/gutenberg.php:82
+msgctxt "block color"
+msgid "Black"
+msgstr "Negro"
+
+#: inc/gutenberg.php:77
+msgctxt "block color"
+msgid "Dark Gray"
+msgstr "Gris oscuro"
+
+#: inc/gutenberg.php:72
+msgctxt "block color"
+msgid "Gray"
+msgstr "Gris"
+
+#: inc/gutenberg.php:67
+msgctxt "block color"
+msgid "Light Gray"
+msgstr "Gris claro"
+
+#: inc/gutenberg.php:62
+msgctxt "block color"
+msgid "White"
+msgstr "Blanco"
+
+#: inc/gutenberg.php:57
+msgctxt "block color"
+msgid "Highlight"
+msgstr "Destacado"
+
+#: inc/gutenberg.php:52
+msgctxt "block color"
+msgid "Accent"
+msgstr "Énfasis"
+
+#: inc/gutenberg.php:47
+msgctxt "block color"
+msgid "Tertiary"
+msgstr "Terciario"
+
+#: inc/gutenberg.php:42
+msgctxt "block color"
+msgid "Secondary"
+msgstr "Secundario"
+
+#: inc/gutenberg.php:37
+msgctxt "block color"
+msgid "Primary"
+msgstr "Principal"
+
+#: template-parts/header/site-navigation.php:22
+msgid "Primary Menu"
+msgstr "Menú principal"
+
+#: template-parts/header/site-navigation.php:17
+msgid "Menu"
+msgstr "Menú"
+
+#: functions.php:153 inc/addons.php:158 inc/addons.php:159
+msgid "Collapse child menu"
+msgstr "Cerrar el menú hijo"
+
+#: functions.php:152 inc/addons.php:158 inc/addons.php:159
+msgid "Expand child menu"
+msgstr "Abrir el menú hijo"
+
+#: inc/customizer/sections/customizer-website.php:50
+msgid "Scale down logo image for retina displays"
+msgstr "Escalar la imagen del logotipo para pantallas retina"
+
+#: inc/customizer/sections/customizer-website.php:34
+msgid "Retina Logo"
+msgstr "Logotipo retina"
+
+#: inc/theme-info.php:50
+msgid "https://themezee.com/changelogs/?action=themezee-changelog&type=theme&slug=poseidon"
+msgstr "https://themezee.com/changelogs/?action=themezee-changelog&type=theme&slug=poseidon"
+
+#: inc/customizer/controls/plugin-control.php:33
+msgid "Install Plugin"
+msgstr "Instalar el plugin"
+
+#: inc/customizer/controls/upgrade-control.php:28
+msgid "Purchase the %s Pro Add-on to get additional features and advanced customization options."
+msgstr "Compra la extensión %s Pro y obtén características adicionales y opciones avanzadas de personalización."
+
+#: inc/customizer/controls/links-control.php:47 inc/theme-info.php:50
+msgid "Theme Changelog"
+msgstr "Registro de cambios del tema"
+
+#: inc/customizer/controls/links-control.php:46
+msgid "https://themezee.com/changelogs/?action=themezee-changelog&type=theme&slug=poseidon/"
+msgstr "https://themezee.com/changelogs/?action=themezee-changelog&type=theme&slug=poseidon/"
+
+#: inc/customizer/sections/customizer-info.php:49
+msgid "Install our free Magazine Blocks to create a magazine-styled homepage in the Editor with just a few clicks."
+msgstr "Instala nuestros bloques gratuitos Magazine Blocks para crear en el editor una página de inicio de estilo revista con solo unos pocos clics."
+
+#: inc/customizer/sections/customizer-info.php:48
+msgid "Magazine Blocks"
+msgstr "Magazine Blocks"
+
+#: functions.php:237
+msgid "Poseidon Thumbnail"
+msgstr "Miniatura de Poseidon"
+
+#: functions.php:236
+msgid "Poseidon Magazine Post"
+msgstr "Entrada de revista de Poseidon"
+
+#: functions.php:235
+msgid "Poseidon Single Post"
+msgstr "Entrada individual de Poseidon"
+
+#: functions.php:234
+msgid "Poseidon Blog Post"
+msgstr "Entrada de blog de Poseidon"
+
+#. translators: Theme Name and Link to ThemeZee.
+#: inc/template-tags.php:425
+msgid "WordPress Theme: %1$s by %2$s."
+msgstr "Tema para WordPress: %1$s de %2$s."
+
+#: inc/customizer/sections/customizer-post.php:138
+msgid "Display previous/next post navigation"
+msgstr "Mostrar la navegación de entradas anterior/siguiente"
+
+#: inc/customizer/sections/customizer-post.php:122
+msgid "Display tags"
+msgstr "Mostrar etiquetas"
+
+#: inc/customizer/sections/customizer-post.php:96
+msgid "Display categories"
+msgstr "Mostrar categorías"
+
+#: inc/customizer/sections/customizer-post.php:80
+msgid "Display author"
+msgstr "Mostrar autor"
+
+#: inc/customizer/sections/customizer-post.php:64
+msgid "Display date"
+msgstr "Mostrar fecha"
+
+#: inc/customizer/sections/customizer-post.php:48
+msgid "Post Details"
+msgstr "Detalles de la entrada"
+
+#: inc/customizer/sections/customizer-blog.php:163
+msgid "Read More Text"
+msgstr "Texto Leer más"
+
+#: inc/customizer/sections/customizer-blog.php:98
+msgid "Blog Content"
+msgstr "Contenido del blog"
+
+#: inc/customizer/sections/customizer-blog.php:189
+msgid "Display Magazine widgets on blog index"
+msgstr "Muestra los widgets de Magazine en el índice del blog"
+
+#: inc/customizer/sections/customizer-blog.php:173
+msgid "Magazine Widgets"
+msgstr "Widgets de Magazine"
+
+#: inc/customizer/sections/customizer-blog.php:55
+msgid "Blog Description"
+msgstr "Descripción del blog"
+
+#: inc/customizer/sections/customizer-blog.php:33
+msgid "Blog Title"
+msgstr "Título del blog"
+
+#: inc/customizer/sections/customizer-blog.php:19
+msgid "Blog Settings"
+msgstr "Ajustes del blog"
+
+#: inc/widgets/widget-magazine-posts-vertical-box.php:27
+msgid "Displays your posts from a selected category in a vertical box."
+msgstr "Muestra en una caja vertical tus entradas de una categoría seleccionada."
+
+#: inc/widgets/widget-magazine-posts-horizontal-box.php:27
+msgid "Displays your posts from a selected category in a horizontal box."
+msgstr "Muestra en una caja horizontal tus entradas de una categoría seleccionada."
+
+#: inc/widgets/widget-magazine-posts-columns.php:42
+msgid "Right Category"
+msgstr "Categoría derecha"
+
+#: inc/widgets/widget-magazine-posts-columns.php:41
+msgid "Left Category"
+msgstr "Categoría izquierda"
+
+#: inc/widgets/widget-magazine-posts-columns.php:27
+msgid "Displays your posts from two selected categories."
+msgstr "Muestra tus entradas de dos categorías seleccionadas."
+
+#: inc/magazine.php:42
+msgid "Please go to Customize &#8594; Widgets and add at least one widget to the Magazine Homepage widget area."
+msgstr "Por favor ve a Personalizar &#8594; Widgets y añade al menos un widget a la zona de widgets de la página de inicio de Magazine."
+
+#: functions.php:120
+msgid "Appears on blog index and Magazine Homepage template. You can use the Magazine widgets here."
+msgstr "Aparece en el índice del blog y en la plantilla de la página de inicio de Magazine. Puedes utilizar widgets de Magazine aquí."
+
+#: inc/widgets/widget-magazine-posts-vertical-box.php:24
+#: inc/widgets/widget-magazine-posts-vertical-box.php:39
+msgid "Magazine (Vertical Box)"
+msgstr "Magazine (Caja vertical)"
+
+#: inc/widgets/widget-magazine-posts-horizontal-box.php:24
+#: inc/widgets/widget-magazine-posts-horizontal-box.php:39
+msgid "Magazine (Horizontal Box)"
+msgstr "Magazine (Caja horizontal)"
+
+#: inc/widgets/widget-magazine-posts-grid.php:24
+#: inc/widgets/widget-magazine-posts-grid.php:39
+msgid "Magazine (Grid)"
+msgstr "Magazine (Rejilla)"
+
+#: inc/widgets/widget-magazine-posts-columns.php:24
+msgid "Magazine (Columns)"
+msgstr "Magazine (Columnas)"
+
+#: inc/customizer/sections/customizer-website.php:80
+msgid "Display Tagline"
+msgstr "Mostrar la descripción corta del sitio"
+
+#: inc/theme-info.php:154
+msgid "Review Poseidon"
+msgstr "Análisis de Poseidon"
+
+#: inc/theme-info.php:135
+msgid "Install Plugins"
+msgstr "Instalar plugins"
+
+#: inc/theme-info.php:128
+msgid "Recommended Plugins"
+msgstr "Plugins recomendados"
+
+#: inc/customizer/controls/upgrade-control.php:25 inc/theme-info.php:111
+msgid "Pro Version Add-on"
+msgstr "Complemento de la versión Pro"
+
+#: inc/customizer/controls/links-control.php:52 inc/theme-info.php:51
+#: inc/theme-info.php:154
+msgid "https://wordpress.org/support/theme/poseidon/reviews/"
+msgstr "https://wordpress.org/support/theme/poseidon/reviews/"
+
+#: template-parts/content-page.php:23 template-parts/content-single.php:27
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: template-parts/content-none.php:33
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Parece que no hemos podido encontrar lo que estás buscando. Quizá pueda ayudarte una búsqueda."
+
+#: template-parts/content-none.php:27
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Lo siento, pero nada coincide con tus términos de búsqueda. Por favor, inténtalo de nuevo con algunas palabras clave diferentes."
+
+#: template-parts/content-none.php:23
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "¿Preparado para publicar tu primera entrada? <a href=\"%1$s\">Empieza aquí</a>."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "No se ha encontrado nada"
+
+#: searchform.php:21
+msgctxt "submit button"
+msgid "Search"
+msgstr "Buscar"
+
+#: inc/template-tags.php:408
+msgctxt "pagination"
+msgid "Previous Posts"
+msgstr "Entradas anteriores"
+
+#: inc/template-tags.php:409
+msgctxt "pagination"
+msgid "Next Posts"
+msgstr "Siguientes entradas"
+
+#: inc/template-tags.php:355
+msgctxt "post navigation"
+msgid "Next Post:"
+msgstr "Siguiente entrada:"
+
+#: inc/template-tags.php:354
+msgctxt "post navigation"
+msgid "Previous Post:"
+msgstr "Entrada anterior:"
+
+#: inc/customizer/sections/customizer-blog.php:134
+msgid "Excerpt More Text"
+msgstr "Texto del extracto"
+
+#: inc/customizer/sections/customizer-post.php:106
+msgid "Single Posts"
+msgstr "Artículos individuales"
+
+#: inc/customizer/sections/customizer-website.php:65
+msgid "Display Site Title"
+msgstr "Mostrar el título del sitio"
+
+#. Theme Name of the theme
+#. translators: Theme Name and Link to ThemeZee.
+#: inc/template-tags.php:426
+msgid "Poseidon"
+msgstr "Poseidon"
+
+#: searchform.php:15
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Buscar &hellip;"
+
+#: searchform.php:13 searchform.php:17
+msgctxt "label"
+msgid "Search for:"
+msgstr "Buscar:"
+
+#: search.php:24
+msgid "Search Results for: %s"
+msgstr "Resultados de la búsqueda para: %s"
+
+#: inc/widgets/widget-magazine-posts-grid.php:223
+msgid "Three Columns Grid"
+msgstr "Rejilla tres columnas"
+
+#: inc/widgets/widget-magazine-posts-grid.php:222
+msgid "Two Columns Grid"
+msgstr "Rejilla dos columnas"
+
+#: inc/widgets/widget-magazine-posts-columns.php:298
+msgid "Highlight first post (big image + excerpt)"
+msgstr "Destacar la primera entrada (imagen grande + extracto)"
+
+#: inc/widgets/widget-magazine-posts-columns.php:275
+msgid "Right Category:"
+msgstr "Categoría de la Derecha:"
+
+#: inc/widgets/widget-magazine-posts-columns.php:269
+msgid "Right Category Title:"
+msgstr "Título de la categoría derecha:"
+
+#: inc/widgets/widget-magazine-posts-columns.php:254
+msgid "Left Category:"
+msgstr "Categoría de la Izquierda:"
+
+#: inc/widgets/widget-magazine-posts-columns.php:248
+msgid "Left Category Title:"
+msgstr "Título de la categoria izquierda:"
+
+#: inc/widgets/widget-magazine-posts-grid.php:205
+#: inc/widgets/widget-magazine-posts-horizontal-box.php:205
+#: inc/widgets/widget-magazine-posts-vertical-box.php:205
+msgid "Category:"
+msgstr "Categoría:"
+
+#: inc/widgets/widget-magazine-posts-grid.php:199
+#: inc/widgets/widget-magazine-posts-horizontal-box.php:199
+#: inc/widgets/widget-magazine-posts-vertical-box.php:199
+msgid "Title:"
+msgstr "Titulo:"
+
+#: inc/magazine.php:63
+msgid "View all posts from category %s"
+msgstr "Ver todas las entradas de una categoría %s"
+
+#: inc/theme-info.php:154
+msgid "rate it"
+msgstr "clasificar"
+
+#: inc/theme-info.php:153
+msgid "https://themezee.com/"
+msgstr "https://themezee.com/"
+
+#: inc/theme-info.php:151
+msgid "%1$s is proudly brought to you by %2$s. If you like this theme, %3$s :)"
+msgstr "%2$s te ofrece con orgullo %1$s. Si te gusta este tema, %3$s :)"
+
+#: inc/theme-info.php:104
+msgid "Get more features"
+msgstr "Obtén más características"
+
+#: inc/theme-info.php:84
+msgid "Customize Theme"
+msgstr "Personalizar tema"
+
+#: inc/theme-info.php:81
+msgid "%s makes use of the Customizer for all theme settings. Click on \"Customize Theme\" to open the Customizer now."
+msgstr "%s hace uso del personalizador para todos los ajustes del tema. Haz clic en \"Personalizar tema\" para abrir el personalizador ahora."
+
+#: inc/theme-info.php:72
+msgid "View %s Documentation"
+msgstr "Ver la documentación de %s"
+
+#: inc/theme-info.php:68
+msgid "You need help to setup and configure this theme? We got you covered with an extensive theme documentation on our website."
+msgstr "¿Necesitas ayuda para configurar este tema? Te ayudamos con una documentación extensa del tema en nuestro sitio web."
+
+#: inc/theme-info.php:58
+msgid "Getting Started with %s"
+msgstr "Comenzando con %s"
+
+#: inc/customizer/controls/links-control.php:35 inc/theme-info.php:48
+msgid "Theme Demo"
+msgstr "Demo del tema"
+
+#: inc/customizer/sections/customizer-info.php:19 inc/theme-info.php:20
+msgid "Theme Info"
+msgstr "Información del tema"
+
+#: inc/theme-info.php:19 inc/theme-info.php:40
+msgid "Welcome to %1$s %2$s"
+msgstr "Bienvenido a %1$s %2$s"
+
+#: inc/customizer/default-options.php:65
+#: inc/customizer/sections/customizer-blog.php:156
+msgid "Read more"
+msgstr "Leer más"
+
+#: inc/template-tags.php:277
+msgid "View all posts by %s"
+msgstr "Ver todas las entradas de %s"
+
+#: inc/customizer/sections/customizer-slider.php:139
+msgid "Slider Speed (in ms)"
+msgstr "Velocidad del pase de diapositivas (en milisegundos)"
+
+#: inc/customizer/sections/customizer-slider.php:125
+msgid "Fade Effect"
+msgstr "Efecto de desvanecimiento"
+
+#: inc/customizer/sections/customizer-slider.php:124
+msgid "Slide Effect"
+msgstr "Efecto de diapositiva"
+
+#: inc/customizer/sections/customizer-slider.php:117
+msgid "Slider Animation"
+msgstr "Animación del Deslizador"
+
+#: inc/customizer/sections/customizer-slider.php:99
+msgid "Number of Posts"
+msgstr "Cantidad de posts"
+
+#: inc/customizer/sections/customizer-slider.php:82
+msgid "Slider Category"
+msgstr "Categoría Slider"
+
+#: inc/customizer/sections/customizer-slider.php:64
+msgid "Show Slider on posts page"
+msgstr "Muestra el pase de diapositivas en la página de entradas"
+
+#: inc/customizer/sections/customizer-slider.php:49
+msgid "Show Slider on Magazine Homepage"
+msgstr "Muestra el pase de diapositivas en la página de inicio Magazine"
+
+#: inc/customizer/sections/customizer-slider.php:35
+msgid "Activate Post Slider"
+msgstr "Activar el pase de diapositivas de entradas"
+
+#. Template Name of the theme
+#: inc/customizer/sections/customizer-slider.php:19
+msgid "Post Slider"
+msgstr "Post Slider"
+
+#: inc/customizer/sections/customizer-blog.php:118
+msgid "Excerpt Length"
+msgstr "Longitud del extracto"
+
+#: inc/customizer/sections/customizer-blog.php:105
+msgid "Show post excerpts"
+msgstr "Muestra el extracto de la entrada"
+
+#: inc/customizer/sections/customizer-blog.php:104
+msgid "Show full posts"
+msgstr "Mostrar entradas completas"
+
+#: inc/customizer/sections/customizer-post.php:19
+msgid "Post Settings"
+msgstr "Ajustes de la entrada"
+
+#: inc/customizer/sections/customizer-post.php:39
+msgid "Show featured image as header image"
+msgstr "Mostrar la imagen destacada como imagen de cabecera"
+
+#: inc/customizer/sections/customizer-blog.php:85
+#: inc/customizer/sections/customizer-post.php:41
+msgid "Hide featured image"
+msgstr "Ocultar la imagen destacada"
+
+#: inc/customizer/sections/customizer-blog.php:84
+#: inc/customizer/sections/customizer-post.php:40
+msgid "Show featured image above content"
+msgstr "Mostrar imagen destacada sobre el contenido"
+
+#: inc/customizer/sections/customizer-blog.php:83
+msgid "Show featured image beside content"
+msgstr "Mostrar imagen destacada junto al contenido"
+
+#: inc/customizer/sections/customizer-general.php:68
+msgid "Enable sticky header feature"
+msgstr "Habilitar la funcionalidad de cabecera fija"
+
+#: inc/customizer/sections/customizer-general.php:54
+msgid "Sticky Header"
+msgstr "Cabecera fija"
+
+#: inc/customizer/sections/customizer-general.php:40
+msgid "Right Sidebar"
+msgstr "Barra lateral derecha"
+
+#: inc/customizer/sections/customizer-general.php:39
+msgid "Left Sidebar"
+msgstr "Barra lateral izquierda"
+
+#: inc/customizer/sections/customizer-general.php:19
+msgid "General Settings"
+msgstr "General"
+
+#: inc/theme-info.php:131
+msgid "Extend the functionality of your WordPress website with our free and easy to use plugins."
+msgstr "Amplía la funcionalidad de tu sitio web de WordPress con nuestros plugins gratuitos y fáciles de usar."
+
+#: inc/customizer/controls/upgrade-control.php:33 inc/theme-info.php:118
+msgid "Learn more about %s Pro"
+msgstr "Aprende más sobre %s Pro"
+
+#: inc/customizer/controls/upgrade-control.php:32 inc/theme-info.php:117
+msgid "https://themezee.com/addons/poseidon-pro/"
+msgstr "https://themezee.com/addons/poseidon-pro/"
+
+#: inc/theme-info.php:114
+msgid "Purchase the %s Pro Add-on and get additional features and advanced customization options."
+msgstr "Compra el añadido %s Pro y obtén funcionalidades adicionales y opciones de personalización avanzadas."
+
+#: inc/customizer/controls/category-dropdown-control.php:31
+#: inc/widgets/widget-magazine-posts-columns.php:257
+#: inc/widgets/widget-magazine-posts-columns.php:278
+#: inc/widgets/widget-magazine-posts-grid.php:208
+#: inc/widgets/widget-magazine-posts-horizontal-box.php:208
+#: inc/widgets/widget-magazine-posts-vertical-box.php:208
+msgid "All Categories"
+msgstr "Todas las categorías"
+
+#: inc/customizer/default-options.php:61
+msgid "Latest Posts"
+msgstr "Últimas entradas"
+
+#: inc/customizer/controls/links-control.php:53 inc/theme-info.php:51
+msgid "Rate this theme"
+msgstr "Valora este tema"
+
+#: inc/customizer/controls/links-control.php:41 inc/theme-info.php:49
+#: inc/theme-info.php:65
+msgid "Theme Documentation"
+msgstr "Documentación del tema"
+
+#: inc/customizer/controls/links-control.php:40 inc/theme-info.php:49
+#: inc/theme-info.php:71
+msgid "https://themezee.com/docs/poseidon-documentation/"
+msgstr "https://themezee.com/docs/poseidon-documentation/"
+
+#: inc/customizer/controls/links-control.php:29 inc/theme-info.php:47
+msgid "Theme Page"
+msgstr "Páginia del tema"
+
+#: inc/customizer/controls/links-control.php:25 inc/theme-info.php:46
+msgid "Theme Links"
+msgstr "Enlaces del tema"
+
+#: inc/customizer/sections/customizer-website.php:109
+msgid "Hide header image on front page"
+msgstr "Ocultar la imagen de cabecera en la página principal"
+
+#: inc/customizer/sections/customizer-website.php:95
+msgid "Header Image Link"
+msgstr "Enlace de la imagen de cabecera"
+
+#: inc/customizer/customizer.php:44
+msgid "Background"
+msgstr "Fondo"
+
+#: inc/customizer/customizer.php:39 inc/theme-info.php:78
+msgid "Theme Options"
+msgstr "Opciones del tema"
+
+#: inc/back-compat.php:42 inc/back-compat.php:52 inc/back-compat.php:65
+msgid "%1$s requires at least WordPress version %2$s. You are running version %3$s. Please upgrade and try again."
+msgstr "%1$s necesita al menos la versión %2$s de WordPress. Tú estás utilizando la versión %3$s. Por favor actualiza e inténtalo de nuevo."
+
+#: header.php:29
+msgid "Skip to content"
+msgstr "Saltar al contenido"
+
+#. Template Name of the theme
+#: functions.php:118
+msgid "Magazine Homepage"
+msgstr "Página de inicio Magazine"
+
+#: functions.php:110
+msgid "Appears on posts and pages except the full width template."
+msgstr "Aparece en entradas y páginas excepto con plantilla de ancho completo."
+
+#: functions.php:108
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: functions.php:43
+msgid "Main Navigation"
+msgstr "Navegación principal"
+
+#: comments.php:59
+msgid "Leave a Reply"
+msgstr "Deja un comentario"
+
+#: comments.php:55
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#: comments.php:30
+msgid "% comments"
+msgstr "% comentarios"
+
+#: comments.php:30
+msgid "One comment"
+msgstr "Un comentario"
+
+#: 404.php:22
+msgid "It looks like nothing was found at this location. Maybe try a search or one of the links below?"
+msgstr "Parece que no se encontró nada en esta ubicación. ¿Tal vez probar un búsqueda o uno de los enlaces de abajo?"
+
+#: 404.php:17
+msgid "404: Page not found"
+msgstr "404: Página no encontrada"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://themezee.com"
+msgstr "https://themezee.com"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "ThemeZee"
+msgstr "ThemeZee"
+
+#. Theme URI of the theme
+#: inc/customizer/controls/links-control.php:28 inc/theme-info.php:47
+#, gp-priority: low
+msgid "https://themezee.com/themes/poseidon/"
+msgstr "https://themezee.com/themes/poseidon/"
