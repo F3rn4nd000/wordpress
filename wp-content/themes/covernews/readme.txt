@@ -2,7 +2,7 @@
 
 Contributors: AF themes
 Tested up to: 6.2
-Stable tag: 4.3.4
+Stable tag: 4.3.5
 License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Tags: news, blog, entertainment, one-column, two-columns, grid-layout, block-styles, left-sidebar, right-sidebar, custom-header, flexible-header, custom-background, custom-menu, featured-images, full-width-template, post-formats, rtl-language-support, footer-widgets, translation-ready, theme-options, threaded-comments
@@ -37,6 +37,10 @@ CoverNews includes support for Infinite Scroll in Jetpack.
 
 
 == Change-log ==
+= 4.3.5 - May 22 2023 =
+* Update - Block design improvements
+* Fixed - Some styling glitch
+
 = 4.3.4 - May 10 2023 =
 * Update - Block design improvements
 * Update - Archive improvements
